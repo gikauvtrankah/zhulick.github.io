@@ -1,2 +1,2 @@
-# zhulick.github.io
-zhulicknevoruy
+# zhulik.github.io
+zhuliknevoruy
